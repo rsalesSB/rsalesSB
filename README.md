@@ -7,7 +7,7 @@ Hello! I'm a **Product Designer and Front-End developer** based in Curitiba, Par
 
 ## 🔭 Goals for year
 
-- Produce more posts for [Instagram Sales//Creations](https://www.instagram.com/salescreations/)
+- Produce more posts for [Instagram Sales//Creations](https://www.instagram.com/salesunited/)
 - Launch a real product with [Golang](https://golang.org/) in API and [React Native](https://reactnative.dev/) for app
 - Improve my [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), [VueJS](https://vuejs.org/) and [Golang](https://golang.org/) Knowledge
 
